@@ -1,4 +1,4 @@
-### Hi, I am a junior developer 👋
+### Hello 👋
 
 <!--
 **junhyeong32/junhyeong32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
