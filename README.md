@@ -15,6 +15,8 @@
 ---
 
 ### 📊 GitHub Stats:
+⚠️ This is based on public repositories. The actual number of commits is higher!
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=junhyeong32&show_icons=true&theme=tokyonight" />
 </p>
