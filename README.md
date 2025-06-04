@@ -28,5 +28,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=junhyeong32&theme=dracula" />
 </p>
 
-![snake gif](https://github.com/junhyeong32/junhyeong32/blob/output/github-contribution-grid-snake.svg)
 
